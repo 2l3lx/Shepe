@@ -17,8 +17,13 @@ public class Rectangle {
         return l*b; // write code to calculate area here
     }
 
-        // write code to calculate perimeter here
-        // getPerimeter()
+    public int perimeter(p) {
+       p=2*(l+b) // write code to calculate perimeter here
+    }
+
+    public int getperimeter() { // getPerimeter()
+        return p;
+    }
 
 }
 
