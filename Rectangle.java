@@ -18,7 +18,7 @@ public class Rectangle {
     }
 
     public int perimeter(p) {
-       p=(l+b)*2 // write code to calculate perimeter here
+       p=2*(l+b) // write code to calculate perimeter here
     }
 
     public int getperimeter() { // getPerimeter()
